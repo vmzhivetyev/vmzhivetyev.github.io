@@ -1,19 +1,19 @@
 {
   "activitycontinuation": {
     "apps": [
-      "AAAAA.com.facebook.drafts.internal"
+      "L89AMX7695.com.facebook.drafts.internal"
     ]
   },
   "webcredentials": {
     "apps": [
-      "ru.vmz.wwdc2018demo"
+      "L89AMX7695.ru.vmz.wwdc2018demo"
     ]
   },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "AAAAA.com.facebook.MessengerDev",
+        "appID": "L89AMX7695.com.facebook.MessengerDev",
         "paths": [
           "/messenger/diode/*"
         ]
