@@ -1,0 +1,23 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "AAAAA.com.facebook.drafts.internal"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "ru.vmz.wwdc2018demo"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "AAAAA.com.facebook.MessengerDev",
+        "paths": [
+          "/messenger/diode/*"
+        ]
+      }
+    ]
+  }
+}
