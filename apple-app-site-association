@@ -1,12 +1,21 @@
 {
-  "activitycontinuation": {
-    "apps": [
-      "L89AMX7695.com.facebook.drafts.internal"
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "L89AMX7695.ru.vmz.wwdc2018demo"
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "BL2A36P4ZL.org.gr.get-rich",
+                "paths": [
+                  "/",
+                  "/notifications",
+                  "/post/*",
+                  "/finance",
+                  "/user/*",
+                  "/channel/*",
+                  "/chat/*",
+                  "/broadcast/*",
+                  "/settings"
+                ]
+            }
+        ]
+    }
 }
